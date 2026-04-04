@@ -1,0 +1,1 @@
+Example of troubleshooting steps: 1. Check system logs using 'sudo journalctl -u service_name'. 2. Identify error patterns with 'grep ERROR'. 3. Verify network connectivity.
